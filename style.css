@@ -1,0 +1,56 @@
+body{
+    font-family: roboto;
+}
+
+nav{
+    text-align: center;
+}
+nav li{
+    border:1px solid black;
+    padding: 20px;
+    margin: 40px;
+    border: 1px none none;
+    display: inline-block;
+    border-radius:10px 25px ;
+}
+.li1{
+    
+    background-color:rgba(68, 66, 66, 0.548) ;
+}
+.li2{
+    background-color: rgb(129, 129, 170);
+}
+.li3{
+    background-color: rgb(218, 160, 86);
+}
+.li4{
+    background-color: rgb(161, 119, 119);
+}
+
+
+
+
+section{
+    border:2px solid black;
+    padding: 10px;
+    padding-left: 170px;
+    border: 1px solid none;
+    border-radius:30px 160px;
+    margin: 0px;
+     
+}
+#section-apropo{
+   background-color:rgba(68, 66, 66, 0.548) ;
+}
+#section-travail{
+    background-color:rgb(129, 129, 170) ;
+}
+#section-CV{
+    background-color: rgb(218, 160, 86);
+    
+}
+#section-contact{
+    background-color:rgb(161, 119, 119) ;
+}
+
+
